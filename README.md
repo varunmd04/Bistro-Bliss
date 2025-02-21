@@ -1,6 +1,6 @@
 ﻿# Bistro_Bliss
  Restaurant Management System 
- Hosted website link : https://bistrobliss.000webhostapp.com/index.php
+
 
  Description:
 
